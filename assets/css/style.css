@@ -123,6 +123,9 @@ a, i{
     display: flex;
     justify-content: center;
 }
+.container-dicas p{
+    text-align: justify;
+}
 
 /* Rodapé */
 footer{
